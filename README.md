@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vanshkpadaliya
+- 👀 I’m interested in aerospace engineering
+- 🌱 I’m currently learning javascript 
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me on vanshpadaliya05@gmail.com
